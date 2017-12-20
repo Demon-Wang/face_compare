@@ -8,6 +8,7 @@ macOS High Sierra 10.13.2
 1. >下载face++ python sdk
 
     https://github.com/FacePlusPlus/python-sdk
+    将faceapp.py导入
 2. >安装opencv python库
 
     测试：在解释其中import cv2.cv不报错即可
